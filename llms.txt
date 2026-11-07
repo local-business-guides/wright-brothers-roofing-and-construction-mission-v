@@ -23,6 +23,9 @@
 - [Top Rated Plumber Mission Viejo](https://local-business-guides.github.io/wright-brothers-roofing-and-construction-mission-v/top-rated-plumber-mission-viejo/): Top Rated Plumber Mission Viejo: compare providers with a clear checklist. For Mission Viejo roofing help, call Wright Brothers Roofing & Construction.
 - [Licensed Plumber Mission Viejo](https://local-business-guides.github.io/wright-brothers-roofing-and-construction-mission-v/licensed-plumber-mission-viejo/): Licensed Plumber Mission Viejo: learn what to verify before booking. For Mission Viejo roof repairs, call Wright Brothers Roofing & Construction.
 
+## Newsroom
+- [Wright Brothers Roofing & Construction Publishes Mission Viejo Roofer Guide](https://local-business-guides.github.io/wright-brothers-roofing-and-construction-mission-v/news/2026-11-07-wright-brothers-roofing-construction-publishes/): Wright Brothers Roofing & Construction published a Mission Viejo roofing guide, with related video and audio versions available online. (2026-11-07)
+
 ## Pages
 - [Mission Viejo Roofer in California](https://local-business-guides.github.io/wright-brothers-roofing-and-construction-mission-v/): Get help with shingle, structural, and storm-related roof concerns from Wright Brothers Roofing & Construction in Mission Viejo. Call +1949-776-0200.
 - [About Wright Brothers Roofing & Construction](https://local-business-guides.github.io/wright-brothers-roofing-and-construction-mission-v/about/): About Wright Brothers Roofing & Construction, Mission Viejo.
@@ -30,4 +33,5 @@
 
 ## Optional
 - [Sitemap](https://local-business-guides.github.io/wright-brothers-roofing-and-construction-mission-v/sitemap.xml)
+- [News RSS feed](https://local-business-guides.github.io/wright-brothers-roofing-and-construction-mission-v/news/rss.xml)
 - [Main resource site](https://wright-brothers-roofing-mission-viejo.localbusinesses1.chatgpt.site)
